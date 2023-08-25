@@ -74,6 +74,13 @@
 			<artifactId>slf4j-api</artifactId>
 			<version>1.7.32</version>
 		</dependency>
+
+		<dependency>
+			<groupId>org.liquibase</groupId>
+			<artifactId>liquibase-core</artifactId>
+			<version>4.22.0</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
